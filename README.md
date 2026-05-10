@@ -35,7 +35,7 @@ New Era University
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [JC Del Rosario](https://www.linkedin.com/in/jc-del-roasario-37778719a)
+- 💼 LinkedIn: [JC Del Rosario](https://www.linkedin.com/in/jc-del-rosario-37778719a/)
 - 📧 Email: jctarucdelrosario@gmail.com
 
 ---
