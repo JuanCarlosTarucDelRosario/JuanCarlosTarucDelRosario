@@ -22,16 +22,20 @@ New Era University
 ### 🔹 Programming Languages
 - Java
 - JavaScript
+- Python
+- Bash
 
 ### 🔹 Databases
 - IBM DB2 Cloud
 
 ### 🔹 Tools & Technologies
 - Lucidchart
-- Jaspersoft Studio
+- Oracle
 - Eclipse
 - HTML
-
+- Pycharm
+- VS Code
+  
 ---
 
 ## 📫 Connect With Me
