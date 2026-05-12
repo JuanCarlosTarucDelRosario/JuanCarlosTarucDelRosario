@@ -14,7 +14,7 @@ New Era University
 
 ## 📜 Certifications
 - 🏆 [SENPAI 3.0](https://drive.google.com/file/d/1-7BP0exor25RtgUaFRcKDKBQ1rcjCrxe/view?usp=sharing)
-
+- 🏆 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/08b27becb249457cab80860d6a698ad4#)
 ---
 
 ## 💻 Skill Sets
